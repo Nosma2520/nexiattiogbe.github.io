@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +13,7 @@
     <div class="container">
         <!-- Profile Section -->
         <section class="profile">
-            <img src="profile.jpg" alt="Nexus Attiogbe" class="profile-img">
+            <img src="20241021_172141.jpg" alt="Nexus Attiogbe" class="profile-img">
             <h2>Undergraduate Researcher</h2>
             <p>Aspiring chemical engineer with a passion for energy systems and sustainability, currently pursuing a Bachelor's degree at the University of Massachusetts Amherst.</p>
         </section>
@@ -22,7 +21,7 @@
         <!-- Contact Information -->
         <section class="contact-info">
             <h3>Contact Information</h3>
-            <p><i class="fas fa-phone"></i> <a href="tel:+15088479549">+1 (234) 567-890</a></p>
+            <p><i class="fas fa-phone"></i> <a href="tel:+15088479549">+1 (508) 847-9549</a></p>
             <p><i class="fas fa-envelope"></i> <a href="mailto:nattiogbe@umass.edu">nattiogbe@umass.edu</a></p>
             <p><i class="fas fa-map-marker-alt"></i> <a href="https://www.google.com/maps/place/University+of+Massachusetts+Amherst" target="_blank">University of Massachusetts Amherst, MA</a></p>
         </section>
