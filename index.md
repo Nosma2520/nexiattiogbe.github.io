@@ -25,6 +25,10 @@
             <p><i class="fas fa-envelope"></i> <a href="mailto:nattiogbe@umass.edu">nattiogbe@umass.edu</a></p>
             <p><i class="fas fa-map-marker-alt"></i> <a href="https://www.google.com/maps/place/University+of+Massachusetts+Amherst" target="_blank">University of Massachusetts Amherst, MA</a></p>
         </section>
+                <!-- Download Resume -->
+        <section class="vcard">
+            <a href="_ Nexus Attiogbe Resume__.pdf" download class="vcard-btn"><i class="fas fa-download"></i> Download Resume</a>
+        </section>
 
         <!-- Portfolio Section -->
         <section class="portfolio">
