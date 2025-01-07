@@ -1,0 +1,90 @@
+/* styles.css */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #666;
+    margin: 5px 0 20px;
+}
+
+.contact-info, .portfolio, .social-media, .vcard {
+    margin: 30px 0;
+}
+
+.contact-info p, .social-media a {
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+.contact-info a, .social-media a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact-info a:hover, .social-media a:hover {
+    text-decoration: underline;
+}
+
+.portfolio-item {
+    margin: 20px 0;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.portfolio-item h4 {
+    margin: 10px 0 5px;
+}
+
+.social-media a {
+    margin: 0 10px;
+    font-size: 1.5em;
+}
+
+.vcard-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+}
+
+.vcard-btn:hover {
+    background-color: #0056b3;
+}
