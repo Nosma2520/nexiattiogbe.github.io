@@ -49,7 +49,7 @@
         <!-- Social Media Links -->
         <section class="social-media">
             <h3>Connect with Me</h3>
-            <a href="https://www.linkedin.com/in/nexus-attiogbe" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/nexi-attiogbe" target="_blank"><i class="fab fa-linkedin"></i></a>
             <!-- Add more social media links as needed -->
         </section>
 
